@@ -14,7 +14,7 @@ O projeto simula uma plataforma de notícias, com notícia principal, cabeçario
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - React Native
 - JavaScript
