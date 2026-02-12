@@ -1,4 +1,4 @@
-# 📰 App de Notícias
+# App de Notícias
 
 Aplicativo mobile desenvolvido em **React Native**, com sistema de autenticação e exibição de notícias de forma organizada e responsiva.
 
@@ -6,11 +6,11 @@ O projeto simula uma plataforma de notícias, com notícia principal, cabeçario
 
 ---
 
-## 📱 Funcionalidades
+## Funcionalidades
 
-- 🏠 Tela inicial com listagem de notícias
-- 📰 Visualização de conteúdo
-- 🎨 Componentes reutilizáveis (Header e Footer)
+-  Tela inicial com listagem de notícias
+-  Visualização de conteúdo
+-  Componentes reutilizáveis (Header e Footer)
 
 ---
 
